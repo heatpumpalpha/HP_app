@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.path import Path
 
-st.set_page_config(page_title="Heat Pump Envelope Tool", layout="wide")
+st.set_page_config(page_title="Heat Pump Tool", layout="centered")
 
 def plot_heat_pump_envelope(plot_type):
     title_fs = 5
